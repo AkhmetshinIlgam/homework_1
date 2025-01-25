@@ -1,0 +1,10 @@
+# b = int(input("введите число "))
+# abc=int(input("введите число "))
+# print(b+abc)
+# print(b)
+# print(abc)
+# print(b*abc)
+
+ b=input()
+ zxc=input("введите имя ")
+ print(b+zxc)
