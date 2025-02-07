@@ -5,6 +5,6 @@
 # print(abc)
 # print(b*abc)
 
- b=input()
- zxc=input("введите имя ")
- print(b+zxc)
+b=input()
+zxc=input("введите имя: ")
+print(b+zxc)
